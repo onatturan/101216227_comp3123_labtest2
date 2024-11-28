@@ -24,6 +24,10 @@ The app uses React features like `useState`, `useEffect`, and props for dynamic 
 ### Search Weather
 ![Search Feature Screenshot](https://github.com/onatturan/101216227_comp3123_labtest2/blob/main/src/assets/Screenshot2.png )
 
+### Postman
+![Postman](https://github.com/onatturan/101216227_comp3123_labtest2/blob/main/src/assets/Screenshot3.png )
+
+
 *Note: Replace the placeholder links above with actual screenshots of your application.*
 
 ---
